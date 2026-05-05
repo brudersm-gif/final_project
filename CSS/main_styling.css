@@ -1,1 +1,13 @@
-
+-moz-
+-webkit-
+-ms-
+-o-
+<--prefixes for browsers
+@font-face {
+  src:url(../Fonts/ .... .ttf);
+  font-familty: name ; 
+}
+body {
+  font-family: ;
+  font-size: 1.5em;
+}
