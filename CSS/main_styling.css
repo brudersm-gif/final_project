@@ -1,13 +1,14 @@
+/*
 -moz-
 -webkit-
 -ms-
 -o-
-<--prefixes for browsers
+<--prefixes for browsers */
 @font-face {
-  src:url(../Fonts/ .... .ttf);
-  font-familty: name ; 
+  src:url(../Fonts/yu-mincho-regular.ttf);
+  font-familty: yu-mincho-regular ; 
 }
 body {
-  font-family: ;
+  font-family: yu-mincho-regular;
   font-size: 1.5em;
 }
