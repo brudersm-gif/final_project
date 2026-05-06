@@ -111,6 +111,7 @@ div.navCell {
 .div-container {
 	display:flex;
 	flex-direction:row;
+	flex-wrap:wrap;
 	gap:5%;
 	justify-content:center;
 	max-width:100%;
