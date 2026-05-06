@@ -112,12 +112,13 @@ div.navCell {
 	display:flex;
 	flex-direction:row;
 	flex-wrap:wrap;
-	justify-content:space-around;
+	justify-content:center;
+	align-items:center;
 	width:100%;
 	height:auto;
 }
 .flex-item {
 	background-color:pink;
 	text-align:center;
-	width:30%;
+	width:33.33%;
 }
