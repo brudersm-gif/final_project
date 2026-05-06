@@ -108,3 +108,9 @@ div.navCell {
 	grid-template-columns: 1fr 1fr 1fr;
 	gap:20px;
 }
+.div-container {
+	display:flex;
+}
+.flex-item {
+	background-color: pink;
+}
