@@ -96,8 +96,7 @@ div.navCell {
 	float: right;
 }
 .center {
-	margin-left:20%;
-	margin-top:5%;
+	margin:auto;
 }
 .images {
 	max-width:100%;
