@@ -99,3 +99,8 @@ div.navCell {
 	margin-left:20%;
 	margin-top:5%;
 }
+.images {
+	max-width:100%;
+	height:auto;
+	background-color:pink;
+}
