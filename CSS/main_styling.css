@@ -103,6 +103,8 @@ div.navCell {
 	height:auto;
 	background-color:pink;
 }
-.top {
-	margin-top:10%;
+.parent {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	gap:20px;
 }
