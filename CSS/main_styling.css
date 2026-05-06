@@ -115,9 +115,11 @@ div.navCell {
 	gap:5%;
 	justify-content:center;
 	max-width:100%;
+	height:auto;
 }
 .flex-item {
 	background-color:pink;
 	max-width:33%%;
 	height:auto;
+	text-align:center;
 }
