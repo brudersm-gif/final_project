@@ -112,7 +112,7 @@ div.navCell {
 	display:flex;
 	flex-direction:row;
 	flex-wrap:wrap;
-	justify-content:center;
+	justify-content:space-around;
 	width:100%;
 	height:auto;
 }
